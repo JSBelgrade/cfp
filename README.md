@@ -30,14 +30,14 @@ And a few things about the topic:
 - Preferred language - Serbian or English;
 - Approximate duration of the talk;
 - Do you prefer small (<30 people) or big (>100 people) meetup?
-- When do you want to talk on our meetup? Please check [a list of next meetups]() first.
+- When do you want to talk on our meetup? Please check [a list of the next meetups](https://github.com/JSBelgrade/cfp/blob/master/next-meetups.md) first.
 
 ## Topics
 
 We are opened for any topic directly or indirectly related to JavaScript and Node.js.  
 Please try to avoid talks about your products etc. unless your product is some awesome JS library (Browserify, Babel...) or something that would be really interesting for our audience.
 
-Check a list of previous themes for the idea.
+Check a [list of the previous themes](https://github.com/JSBelgrade/cfp/blob/master/past-meetups.md) for the idea.
 
 ## FAQ (fake, no one asked those things yet)
 
