@@ -4,11 +4,11 @@
 
 Call for Papers for JS Belgrade Meetups.
 
-We are developers and Github is something that most of us are using everyday, so we decided to put CFP here.
+We are developers and GitHub is something that most of us use every day, so we decided to put CFP here.
 
-JS Belgrade Meetups are organized each month, we don't have exact date it depends on a various things, only "rule" is that they are on Saturday afternoon.
+JS Belgrade Meetups are organized every month. It's always a Saturday afternoon, and the exact dates are announced as soon as possible.
 
-So if you want to talk on one of the next JS Belgrade Meetups, here's how to apply:
+So if you want to talk in one of the next JS Belgrade Meetups, here's how to apply:
 
 ## How to apply
 
@@ -29,12 +29,12 @@ And a few things about the topic:
 - Short description/abstract;
 - Preferred language - Serbian or English;
 - Approximate duration of the talk;
-- Do you prefer small (<30 people) or big (>100 people) meetup?
-- When do you want to talk on our meetup? Please check [a list of the next meetups](https://github.com/JSBelgrade/cfp/blob/master/next-meetups.md) first.
+- Do you prefer small (<30 people) or big (>100 people) meetups?
+- When do you want to talk in our meetup? Please check [a list of the next meetups](https://github.com/JSBelgrade/cfp/blob/master/next-meetups.md) first.
 
 ## Topics
 
-We are opened for any topic directly or indirectly related to JavaScript and Node.js.  
+We are open to any topic directly or indirectly related to JavaScript and Node.js.  
 Please try to avoid talks about your products etc. unless your product is some awesome JS library (Browserify, Babel...) or something that would be really interesting for our audience.
 
 Check a [list of the previous themes](https://github.com/JSBelgrade/cfp/blob/master/past-meetups.md) for the idea.
