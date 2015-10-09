@@ -1,5 +1,5 @@
 # A list of the next meetups
 
-- **August 2015** - [Stephan Bönnemann talks about Hoodie, npm and semantic release](http://www.jsbelgrade.org/meetup-9-stephan-bonnemann/) - August 8th, 2015, 5pm @ ICT Hub;
-- **September 2015** - Martin Kleppe - September 5th, 2015. More info soon.
-- **October 2015** - Marko Kažić talks about Meteor. More info soon.
+- **October 2015** - [Marko Kažić](https://github.com/marxo) talks about Meteor, [more info](http://www.meetup.com/JS-Belgrade-Meetup/events/225772781/);
+- **November 2015** - [Dejan Dimić](https://github.com/rubystream) talks about IoT. Not confirmed;
+- **December 2015** - [Eric Schoffstall](https://github.com/contra). Not confirmed;
